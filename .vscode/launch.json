@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "name": "Typescript Debug",
+      "preLaunchTask": "tsc: build - tsconfig.json"
+    }
+  ]
+}
